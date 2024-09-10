@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @retcelvic
+- 👀 I’m interested in Data Science and analytics
+- 🌱 I’m currently learning more about NLP
+- 💞️ I’m looking to collaborate on projects related to data science
+- 😄 Pronouns: She/Her
